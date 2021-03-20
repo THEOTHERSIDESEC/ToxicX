@@ -20,7 +20,7 @@ print ("\033[49m                   Welcome To ToxicX                    \033[0m"
 print ("\033[48m                   Author: Versacefer                   \033[0m")
 print
 
-os.system("cd banner;python2 table.py")
+os.system("cd Banner;python2 table.py")
 
 def help():
   print
